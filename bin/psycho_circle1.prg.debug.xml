@@ -1,41 +1,159 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <debugInfo>
 <pcToLineNum>
-<entry filename="Z:\\f3\\psycho_circle1\\source\\psycho_circle1View.mc" lineNum="29" pc="268435458" symbol="onLayout"/>
-<entry filename="Z:\\f3\\psycho_circle1\\source\\psycho_circle1View.mc" lineNum="30" pc="268435483" symbol="onLayout"/>
-<entry filename="Z:\\f3\\psycho_circle1\\source\\psycho_circle1View.mc" lineNum="31" pc="268435502" symbol="onLayout"/>
-<entry filename="Z:\\f3\\psycho_circle1\\source\\psycho_circle1View.mc" lineNum="32" pc="268435521" symbol="onLayout"/>
-<entry filename="Z:\\f3\\psycho_circle1\\source\\psycho_circle1View.mc" lineNum="43" pc="268435540" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\psycho_circle1\\source\\psycho_circle1View.mc" lineNum="44" pc="268435580" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\psycho_circle1\\source\\psycho_circle1View.mc" lineNum="46" pc="268435616" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\psycho_circle1\\source\\psycho_circle1View.mc" lineNum="47" pc="268435632" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\psycho_circle1\\source\\psycho_circle1View.mc" lineNum="48" pc="268435651" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\psycho_circle1\\source\\psycho_circle1View.mc" lineNum="49" pc="268435664" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\psycho_circle1\\source\\psycho_circle1View.mc" lineNum="51" pc="268435681" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\psycho_circle1\\source\\psycho_circle1View.mc" lineNum="52" pc="268435700" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\psycho_circle1\\source\\psycho_circle1View.mc" lineNum="53" pc="268435732" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\psycho_circle1\\source\\psycho_circle1View.mc" lineNum="56" pc="268435772" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\psycho_circle1\\source\\psycho_circle1View.mc" lineNum="58" pc="268435803" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\psycho_circle1\\source\\psycho_circle1View.mc" lineNum="59" pc="268435849" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\psycho_circle1\\source\\psycho_circle1View.mc" lineNum="60" pc="268435871" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\psycho_circle1\\source\\psycho_circle1View.mc" lineNum="64" pc="268435922" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\psycho_circle1\\source\\psycho_circle1View.mc" lineNum="65" pc="268435939" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\psycho_circle1\\source\\psycho_circle1View.mc" lineNum="66" pc="268436013" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\psycho_circle1\\source\\psycho_circle1View.mc" lineNum="67" pc="268436049" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\psycho_circle1\\source\\psycho_circle1View.mc" lineNum="79" pc="268436143" symbol="onExitSleep"/>
-<entry filename="Z:\\f3\\psycho_circle1\\source\\psycho_circle1View.mc" lineNum="80" pc="268436153" symbol="onExitSleep"/>
-<entry filename="Z:\\f3\\psycho_circle1\\source\\psycho_circle1View.mc" lineNum="85" pc="268436172" symbol="onEnterSleep"/>
-<entry filename="Z:\\f3\\psycho_circle1\\source\\psycho_circle1View.mc" lineNum="86" pc="268436182" symbol="onEnterSleep"/>
-<entry filename="Z:\\f3\\psycho_circle1\\source\\psycho_circle1View.mc" lineNum="8" pc="268436552" symbol="&lt;init&gt;"/>
-<entry filename="Z:\\f3\\psycho_circle1\\source\\psycho_circle1App.mc" lineNum="15" pc="268436208" symbol="getInitialView"/>
-<entry filename="Rez" lineNum="5" pc="268436524" symbol="&lt;init&gt;"/>
-<entry filename="Rez" lineNum="10" pc="268436511" symbol="&lt;init&gt;"/>
-<entry filename="Rez" lineNum="19" pc="268436249" symbol="WatchFace"/>
-<entry filename="Rez" lineNum="20" pc="268436263" symbol="WatchFace"/>
-<entry filename="Rez" lineNum="21" pc="268436360" symbol="WatchFace"/>
-<entry filename="Rez" lineNum="22" pc="268436375" symbol="WatchFace"/>
-<entry filename="Rez" lineNum="23" pc="268436427" symbol="WatchFace"/>
-<entry filename="Rez" lineNum="24" pc="268436473" symbol="WatchFace"/>
+<entry filename="Z:\\f3\\psycho_circle1\\source\\psycho_circle1View.mc" lineNum="37" pc="268435458" symbol="onLayout"/>
+<entry filename="Z:\\f3\\psycho_circle1\\source\\psycho_circle1View.mc" lineNum="38" pc="268435483" symbol="onLayout"/>
+<entry filename="Z:\\f3\\psycho_circle1\\source\\psycho_circle1View.mc" lineNum="39" pc="268435502" symbol="onLayout"/>
+<entry filename="Z:\\f3\\psycho_circle1\\source\\psycho_circle1View.mc" lineNum="40" pc="268435521" symbol="onLayout"/>
+<entry filename="Z:\\f3\\psycho_circle1\\source\\psycho_circle1View.mc" lineNum="41" pc="268435534" symbol="onLayout"/>
+<entry filename="Z:\\f3\\psycho_circle1\\source\\psycho_circle1View.mc" lineNum="56" pc="268435563" symbol="onUpdate"/>
+<entry filename="Z:\\f3\\psycho_circle1\\source\\psycho_circle1View.mc" lineNum="57" pc="268435599" symbol="onUpdate"/>
+<entry filename="Z:\\f3\\psycho_circle1\\source\\psycho_circle1View.mc" lineNum="58" pc="268435637" symbol="onUpdate"/>
+<entry filename="Z:\\f3\\psycho_circle1\\source\\psycho_circle1View.mc" lineNum="61" pc="268435649" symbol="onUpdate"/>
+<entry filename="Z:\\f3\\psycho_circle1\\source\\psycho_circle1View.mc" lineNum="62" pc="268435666" symbol="onUpdate"/>
+<entry filename="Z:\\f3\\psycho_circle1\\source\\psycho_circle1View.mc" lineNum="63" pc="268435722" symbol="onUpdate"/>
+<entry filename="Z:\\f3\\psycho_circle1\\source\\psycho_circle1View.mc" lineNum="64" pc="268435778" symbol="onUpdate"/>
+<entry filename="Z:\\f3\\psycho_circle1\\source\\psycho_circle1View.mc" lineNum="65" pc="268435778" symbol="onUpdate"/>
+<entry filename="Z:\\f3\\psycho_circle1\\source\\psycho_circle1View.mc" lineNum="66" pc="268435788" symbol="onUpdate"/>
+<entry filename="Z:\\f3\\psycho_circle1\\source\\psycho_circle1View.mc" lineNum="67" pc="268435798" symbol="onUpdate"/>
+<entry filename="Z:\\f3\\psycho_circle1\\source\\psycho_circle1View.mc" lineNum="68" pc="268435808" symbol="onUpdate"/>
+<entry filename="Z:\\f3\\psycho_circle1\\source\\psycho_circle1View.mc" lineNum="69" pc="268435818" symbol="onUpdate"/>
+<entry filename="Z:\\f3\\psycho_circle1\\source\\psycho_circle1View.mc" lineNum="72" pc="268435828" symbol="onUpdate"/>
+<entry filename="Z:\\f3\\psycho_circle1\\source\\psycho_circle1View.mc" lineNum="73" pc="268435847" symbol="onUpdate"/>
+<entry filename="Z:\\f3\\psycho_circle1\\source\\psycho_circle1View.mc" lineNum="74" pc="268435857" symbol="onUpdate"/>
+<entry filename="Z:\\f3\\psycho_circle1\\source\\psycho_circle1View.mc" lineNum="75" pc="268435867" symbol="onUpdate"/>
+<entry filename="Z:\\f3\\psycho_circle1\\source\\psycho_circle1View.mc" lineNum="76" pc="268435877" symbol="onUpdate"/>
+<entry filename="Z:\\f3\\psycho_circle1\\source\\psycho_circle1View.mc" lineNum="77" pc="268435887" symbol="onUpdate"/>
+<entry filename="Z:\\f3\\psycho_circle1\\source\\psycho_circle1View.mc" lineNum="78" pc="268435918" symbol="onUpdate"/>
+<entry filename="Z:\\f3\\psycho_circle1\\source\\psycho_circle1View.mc" lineNum="79" pc="268435925" symbol="onUpdate"/>
+<entry filename="Z:\\f3\\psycho_circle1\\source\\psycho_circle1View.mc" lineNum="80" pc="268435942" symbol="onUpdate"/>
+<entry filename="Z:\\f3\\psycho_circle1\\source\\psycho_circle1View.mc" lineNum="81" pc="268435961" symbol="onUpdate"/>
+<entry filename="Z:\\f3\\psycho_circle1\\source\\psycho_circle1View.mc" lineNum="83" pc="268435971" symbol="onUpdate"/>
+<entry filename="Z:\\f3\\psycho_circle1\\source\\psycho_circle1View.mc" lineNum="85" pc="268435989" symbol="onUpdate"/>
+<entry filename="Z:\\f3\\psycho_circle1\\source\\psycho_circle1View.mc" lineNum="88" pc="268436011" symbol="onUpdate"/>
+<entry filename="Z:\\f3\\psycho_circle1\\source\\psycho_circle1View.mc" lineNum="90" pc="268436051" symbol="onUpdate"/>
+<entry filename="Z:\\f3\\psycho_circle1\\source\\psycho_circle1View.mc" lineNum="92" pc="268436087" symbol="onUpdate"/>
+<entry filename="Z:\\f3\\psycho_circle1\\source\\psycho_circle1View.mc" lineNum="93" pc="268436109" symbol="onUpdate"/>
+<entry filename="Z:\\f3\\psycho_circle1\\source\\psycho_circle1View.mc" lineNum="94" pc="268436128" symbol="onUpdate"/>
+<entry filename="Z:\\f3\\psycho_circle1\\source\\psycho_circle1View.mc" lineNum="95" pc="268436141" symbol="onUpdate"/>
+<entry filename="Z:\\f3\\psycho_circle1\\source\\psycho_circle1View.mc" lineNum="97" pc="268436158" symbol="onUpdate"/>
+<entry filename="Z:\\f3\\psycho_circle1\\source\\psycho_circle1View.mc" lineNum="98" pc="268436177" symbol="onUpdate"/>
+<entry filename="Z:\\f3\\psycho_circle1\\source\\psycho_circle1View.mc" lineNum="99" pc="268436209" symbol="onUpdate"/>
+<entry filename="Z:\\f3\\psycho_circle1\\source\\psycho_circle1View.mc" lineNum="102" pc="268436249" symbol="onUpdate"/>
+<entry filename="Z:\\f3\\psycho_circle1\\source\\psycho_circle1View.mc" lineNum="104" pc="268436280" symbol="onUpdate"/>
+<entry filename="Z:\\f3\\psycho_circle1\\source\\psycho_circle1View.mc" lineNum="105" pc="268436326" symbol="onUpdate"/>
+<entry filename="Z:\\f3\\psycho_circle1\\source\\psycho_circle1View.mc" lineNum="106" pc="268436343" symbol="onUpdate"/>
+<entry filename="Z:\\f3\\psycho_circle1\\source\\psycho_circle1View.mc" lineNum="108" pc="268436377" symbol="onUpdate"/>
+<entry filename="Z:\\f3\\psycho_circle1\\source\\psycho_circle1View.mc" lineNum="110" pc="268436399" symbol="onUpdate"/>
+<entry filename="Z:\\f3\\psycho_circle1\\source\\psycho_circle1View.mc" lineNum="114" pc="268436450" symbol="onUpdate"/>
+<entry filename="Z:\\f3\\psycho_circle1\\source\\psycho_circle1View.mc" lineNum="115" pc="268436468" symbol="onUpdate"/>
+<entry filename="Z:\\f3\\psycho_circle1\\source\\psycho_circle1View.mc" lineNum="116" pc="268436504" symbol="onUpdate"/>
+<entry filename="Z:\\f3\\psycho_circle1\\source\\psycho_circle1View.mc" lineNum="117" pc="268436515" symbol="onUpdate"/>
+<entry filename="Z:\\f3\\psycho_circle1\\source\\psycho_circle1View.mc" lineNum="118" pc="268436525" symbol="onUpdate"/>
+<entry filename="Z:\\f3\\psycho_circle1\\source\\psycho_circle1View.mc" lineNum="121" pc="268436609" symbol="onUpdate"/>
+<entry filename="Z:\\f3\\psycho_circle1\\source\\psycho_circle1View.mc" lineNum="123" pc="268436690" symbol="onUpdate"/>
+<entry filename="Z:\\f3\\psycho_circle1\\source\\psycho_circle1View.mc" lineNum="123" pc="268436701" symbol="onUpdate"/>
+<entry filename="Z:\\f3\\psycho_circle1\\source\\psycho_circle1View.mc" lineNum="124" pc="268436711" symbol="onUpdate"/>
+<entry filename="Z:\\f3\\psycho_circle1\\source\\psycho_circle1View.mc" lineNum="125" pc="268436763" symbol="onUpdate"/>
+<entry filename="Z:\\f3\\psycho_circle1\\source\\psycho_circle1View.mc" lineNum="128" pc="268436818" symbol="onUpdate"/>
+<entry filename="Z:\\f3\\psycho_circle1\\source\\psycho_circle1View.mc" lineNum="129" pc="268436870" symbol="onUpdate"/>
+<entry filename="Z:\\f3\\psycho_circle1\\source\\psycho_circle1View.mc" lineNum="132" pc="268436922" symbol="onUpdate"/>
+<entry filename="Z:\\f3\\psycho_circle1\\source\\psycho_circle1View.mc" lineNum="133" pc="268436958" symbol="onUpdate"/>
+<entry filename="Z:\\f3\\psycho_circle1\\source\\psycho_circle1View.mc" lineNum="134" pc="268437052" symbol="onUpdate"/>
+<entry filename="Z:\\f3\\psycho_circle1\\source\\psycho_circle1View.mc" lineNum="135" pc="268437134" symbol="onUpdate"/>
+<entry filename="Z:\\f3\\psycho_circle1\\source\\psycho_circle1View.mc" lineNum="136" pc="268437228" symbol="onUpdate"/>
+<entry filename="Z:\\f3\\psycho_circle1\\source\\psycho_circle1View.mc" lineNum="137" pc="268437322" symbol="onUpdate"/>
+<entry filename="Z:\\f3\\psycho_circle1\\source\\psycho_circle1View.mc" lineNum="138" pc="268437410" symbol="onUpdate"/>
+<entry filename="Z:\\f3\\psycho_circle1\\source\\psycho_circle1View.mc" lineNum="141" pc="268437504" symbol="onUpdate"/>
+<entry filename="Z:\\f3\\psycho_circle1\\source\\psycho_circle1View.mc" lineNum="142" pc="268437504" symbol="onUpdate"/>
+<entry filename="Z:\\f3\\psycho_circle1\\source\\psycho_circle1View.mc" lineNum="143" pc="268437522" symbol="onUpdate"/>
+<entry filename="Z:\\f3\\psycho_circle1\\source\\psycho_circle1View.mc" lineNum="145" pc="268437568" symbol="onUpdate"/>
+<entry filename="Z:\\f3\\psycho_circle1\\source\\psycho_circle1View.mc" lineNum="148" pc="268437611" symbol="onUpdate"/>
+<entry filename="Z:\\f3\\psycho_circle1\\source\\psycho_circle1View.mc" lineNum="149" pc="268437671" symbol="onUpdate"/>
+<entry filename="Z:\\f3\\psycho_circle1\\source\\psycho_circle1View.mc" lineNum="152" pc="268437746" symbol="onUpdate"/>
+<entry filename="Z:\\f3\\psycho_circle1\\source\\psycho_circle1View.mc" lineNum="153" pc="268437757" symbol="onUpdate"/>
+<entry filename="Z:\\f3\\psycho_circle1\\source\\psycho_circle1View.mc" lineNum="154" pc="268437776" symbol="onUpdate"/>
+<entry filename="Z:\\f3\\psycho_circle1\\source\\psycho_circle1View.mc" lineNum="164" pc="268437824" symbol="drawsec"/>
+<entry filename="Z:\\f3\\psycho_circle1\\source\\psycho_circle1View.mc" lineNum="165" pc="268437880" symbol="drawsec"/>
+<entry filename="Z:\\f3\\psycho_circle1\\source\\psycho_circle1View.mc" lineNum="166" pc="268437890" symbol="drawsec"/>
+<entry filename="Z:\\f3\\psycho_circle1\\source\\psycho_circle1View.mc" lineNum="167" pc="268437908" symbol="drawsec"/>
+<entry filename="Z:\\f3\\psycho_circle1\\source\\psycho_circle1View.mc" lineNum="168" pc="268437933" symbol="drawsec"/>
+<entry filename="Z:\\f3\\psycho_circle1\\source\\psycho_circle1View.mc" lineNum="169" pc="268437969" symbol="drawsec"/>
+<entry filename="Z:\\f3\\psycho_circle1\\source\\psycho_circle1View.mc" lineNum="170" pc="268437969" symbol="drawsec"/>
+<entry filename="Z:\\f3\\psycho_circle1\\source\\psycho_circle1View.mc" lineNum="171" pc="268437985" symbol="drawsec"/>
+<entry filename="Z:\\f3\\psycho_circle1\\source\\psycho_circle1View.mc" lineNum="173" pc="268437992" symbol="drawsec"/>
+<entry filename="Z:\\f3\\psycho_circle1\\source\\psycho_circle1View.mc" lineNum="174" pc="268438073" symbol="drawsec"/>
+<entry filename="Z:\\f3\\psycho_circle1\\source\\psycho_circle1View.mc" lineNum="175" pc="268438154" symbol="drawsec"/>
+<entry filename="Z:\\f3\\psycho_circle1\\source\\psycho_circle1View.mc" lineNum="175" pc="268438162" symbol="drawsec"/>
+<entry filename="Z:\\f3\\psycho_circle1\\source\\psycho_circle1View.mc" lineNum="176" pc="268438201" symbol="drawsec"/>
+<entry filename="Z:\\f3\\psycho_circle1\\source\\psycho_circle1View.mc" lineNum="176" pc="268438215" symbol="drawsec"/>
+<entry filename="Z:\\f3\\psycho_circle1\\source\\psycho_circle1View.mc" lineNum="177" pc="268438254" symbol="drawsec"/>
+<entry filename="Z:\\f3\\psycho_circle1\\source\\psycho_circle1View.mc" lineNum="177" pc="268438268" symbol="drawsec"/>
+<entry filename="Z:\\f3\\psycho_circle1\\source\\psycho_circle1View.mc" lineNum="178" pc="268438307" symbol="drawsec"/>
+<entry filename="Z:\\f3\\psycho_circle1\\source\\psycho_circle1View.mc" lineNum="178" pc="268438321" symbol="drawsec"/>
+<entry filename="Z:\\f3\\psycho_circle1\\source\\psycho_circle1View.mc" lineNum="179" pc="268438360" symbol="drawsec"/>
+<entry filename="Z:\\f3\\psycho_circle1\\source\\psycho_circle1View.mc" lineNum="179" pc="268438374" symbol="drawsec"/>
+<entry filename="Z:\\f3\\psycho_circle1\\source\\psycho_circle1View.mc" lineNum="180" pc="268438413" symbol="drawsec"/>
+<entry filename="Z:\\f3\\psycho_circle1\\source\\psycho_circle1View.mc" lineNum="189" pc="268438453" symbol="drawbatt"/>
+<entry filename="Z:\\f3\\psycho_circle1\\source\\psycho_circle1View.mc" lineNum="190" pc="268438476" symbol="drawbatt"/>
+<entry filename="Z:\\f3\\psycho_circle1\\source\\psycho_circle1View.mc" lineNum="191" pc="268438489" symbol="drawbatt"/>
+<entry filename="Z:\\f3\\psycho_circle1\\source\\psycho_circle1View.mc" lineNum="192" pc="268438506" symbol="drawbatt"/>
+<entry filename="Z:\\f3\\psycho_circle1\\source\\psycho_circle1View.mc" lineNum="193" pc="268438519" symbol="drawbatt"/>
+<entry filename="Z:\\f3\\psycho_circle1\\source\\psycho_circle1View.mc" lineNum="196" pc="268438532" symbol="drawbatt"/>
+<entry filename="Z:\\f3\\psycho_circle1\\source\\psycho_circle1View.mc" lineNum="197" pc="268438568" symbol="drawbatt"/>
+<entry filename="Z:\\f3\\psycho_circle1\\source\\psycho_circle1View.mc" lineNum="198" pc="268438594" symbol="drawbatt"/>
+<entry filename="Z:\\f3\\psycho_circle1\\source\\psycho_circle1View.mc" lineNum="199" pc="268438630" symbol="drawbatt"/>
+<entry filename="Z:\\f3\\psycho_circle1\\source\\psycho_circle1View.mc" lineNum="200" pc="268438668" symbol="drawbatt"/>
+<entry filename="Z:\\f3\\psycho_circle1\\source\\psycho_circle1View.mc" lineNum="203" pc="268438694" symbol="drawbatt"/>
+<entry filename="Z:\\f3\\psycho_circle1\\source\\psycho_circle1View.mc" lineNum="204" pc="268438705" symbol="drawbatt"/>
+<entry filename="Z:\\f3\\psycho_circle1\\source\\psycho_circle1View.mc" lineNum="205" pc="268438741" symbol="drawbatt"/>
+<entry filename="Z:\\f3\\psycho_circle1\\source\\psycho_circle1View.mc" lineNum="206" pc="268438779" symbol="drawbatt"/>
+<entry filename="Z:\\f3\\psycho_circle1\\source\\psycho_circle1View.mc" lineNum="206" pc="268438790" symbol="drawbatt"/>
+<entry filename="Z:\\f3\\psycho_circle1\\source\\psycho_circle1View.mc" lineNum="207" pc="268438831" symbol="drawbatt"/>
+<entry filename="Z:\\f3\\psycho_circle1\\source\\psycho_circle1View.mc" lineNum="207" pc="268438842" symbol="drawbatt"/>
+<entry filename="Z:\\f3\\psycho_circle1\\source\\psycho_circle1View.mc" lineNum="208" pc="268438883" symbol="drawbatt"/>
+<entry filename="Z:\\f3\\psycho_circle1\\source\\psycho_circle1View.mc" lineNum="208" pc="268438894" symbol="drawbatt"/>
+<entry filename="Z:\\f3\\psycho_circle1\\source\\psycho_circle1View.mc" lineNum="209" pc="268438935" symbol="drawbatt"/>
+<entry filename="Z:\\f3\\psycho_circle1\\source\\psycho_circle1View.mc" lineNum="209" pc="268438946" symbol="drawbatt"/>
+<entry filename="Z:\\f3\\psycho_circle1\\source\\psycho_circle1View.mc" lineNum="210" pc="268438987" symbol="drawbatt"/>
+<entry filename="Z:\\f3\\psycho_circle1\\source\\psycho_circle1View.mc" lineNum="210" pc="268438998" symbol="drawbatt"/>
+<entry filename="Z:\\f3\\psycho_circle1\\source\\psycho_circle1View.mc" lineNum="211" pc="268439036" symbol="drawbatt"/>
+<entry filename="Z:\\f3\\psycho_circle1\\source\\psycho_circle1View.mc" lineNum="212" pc="268439072" symbol="drawbatt"/>
+<entry filename="Z:\\f3\\psycho_circle1\\source\\psycho_circle1View.mc" lineNum="215" pc="268439148" symbol="drawbatt"/>
+<entry filename="Z:\\f3\\psycho_circle1\\source\\psycho_circle1View.mc" lineNum="216" pc="268439184" symbol="drawbatt"/>
+<entry filename="Z:\\f3\\psycho_circle1\\source\\psycho_circle1View.mc" lineNum="216" pc="268439195" symbol="drawbatt"/>
+<entry filename="Z:\\f3\\psycho_circle1\\source\\psycho_circle1View.mc" lineNum="217" pc="268439236" symbol="drawbatt"/>
+<entry filename="Z:\\f3\\psycho_circle1\\source\\psycho_circle1View.mc" lineNum="218" pc="268439272" symbol="drawbatt"/>
+<entry filename="Z:\\f3\\psycho_circle1\\source\\psycho_circle1View.mc" lineNum="218" pc="268439283" symbol="drawbatt"/>
+<entry filename="Z:\\f3\\psycho_circle1\\source\\psycho_circle1View.mc" lineNum="219" pc="268439324" symbol="drawbatt"/>
+<entry filename="Z:\\f3\\psycho_circle1\\source\\psycho_circle1View.mc" lineNum="220" pc="268439360" symbol="drawbatt"/>
+<entry filename="Z:\\f3\\psycho_circle1\\source\\psycho_circle1View.mc" lineNum="220" pc="268439371" symbol="drawbatt"/>
+<entry filename="Z:\\f3\\psycho_circle1\\source\\psycho_circle1View.mc" lineNum="221" pc="268439412" symbol="drawbatt"/>
+<entry filename="Z:\\f3\\psycho_circle1\\source\\psycho_circle1View.mc" lineNum="222" pc="268439448" symbol="drawbatt"/>
+<entry filename="Z:\\f3\\psycho_circle1\\source\\psycho_circle1View.mc" lineNum="222" pc="268439459" symbol="drawbatt"/>
+<entry filename="Z:\\f3\\psycho_circle1\\source\\psycho_circle1View.mc" lineNum="224" pc="268439500" symbol="drawbatt"/>
+<entry filename="Z:\\f3\\psycho_circle1\\source\\psycho_circle1View.mc" lineNum="225" pc="268439523" symbol="drawbatt"/>
+<entry filename="Z:\\f3\\psycho_circle1\\source\\psycho_circle1View.mc" lineNum="227" pc="268439564" symbol="drawbatt"/>
+<entry filename="Z:\\f3\\psycho_circle1\\source\\psycho_circle1View.mc" lineNum="230" pc="268439634" symbol="drawbatt"/>
+<entry filename="Z:\\f3\\psycho_circle1\\source\\psycho_circle1View.mc" lineNum="231" pc="268439645" symbol="drawbatt"/>
+<entry filename="Z:\\f3\\psycho_circle1\\source\\psycho_circle1View.mc" lineNum="232" pc="268439681" symbol="drawbatt"/>
+<entry filename="Z:\\f3\\psycho_circle1\\source\\psycho_circle1View.mc" lineNum="244" pc="268439766" symbol="onExitSleep"/>
+<entry filename="Z:\\f3\\psycho_circle1\\source\\psycho_circle1View.mc" lineNum="245" pc="268439776" symbol="onExitSleep"/>
+<entry filename="Z:\\f3\\psycho_circle1\\source\\psycho_circle1View.mc" lineNum="250" pc="268439795" symbol="onEnterSleep"/>
+<entry filename="Z:\\f3\\psycho_circle1\\source\\psycho_circle1View.mc" lineNum="251" pc="268439805" symbol="onEnterSleep"/>
+<entry filename="Z:\\f3\\psycho_circle1\\source\\psycho_circle1View.mc" lineNum="8" pc="268440175" symbol="&lt;init&gt;"/>
+<entry filename="Z:\\f3\\psycho_circle1\\source\\psycho_circle1View.mc" lineNum="10" pc="268440185" symbol="&lt;init&gt;"/>
+<entry filename="Z:\\f3\\psycho_circle1\\source\\psycho_circle1View.mc" lineNum="11" pc="268440205" symbol="&lt;init&gt;"/>
+<entry filename="Z:\\f3\\psycho_circle1\\source\\psycho_circle1View.mc" lineNum="16" pc="268440225" symbol="&lt;init&gt;"/>
+<entry filename="Z:\\f3\\psycho_circle1\\source\\psycho_circle1App.mc" lineNum="15" pc="268439831" symbol="getInitialView"/>
+<entry filename="Rez" lineNum="5" pc="268440147" symbol="&lt;init&gt;"/>
+<entry filename="Rez" lineNum="10" pc="268440134" symbol="&lt;init&gt;"/>
+<entry filename="Rez" lineNum="19" pc="268439872" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="20" pc="268439886" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="21" pc="268439983" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="22" pc="268439998" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="23" pc="268440050" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="24" pc="268440096" symbol="WatchFace"/>
 </pcToLineNum>
 <symbolTable>
 <entry id="8389359" symbol="&lt;gre&gt;"/>
@@ -45,6 +163,7 @@
 <entry field="true" id="8388974" symbol="TONE_ALARM"/>
 <entry id="8388823" method="true" symbol="emptyMailbox"/>
 <entry id="8388634" module="true" symbol="Ant"/>
+<entry id="31" method="true" symbol="drawbatt"/>
 <entry field="true" id="8388906" symbol="MOVE_BAR_LEVEL_MAX"/>
 <entry field="true" id="8388737" symbol="calories"/>
 <entry field="true" id="8389205" symbol="MSG_ID_CHANNEL_TRANSMIT_POWER"/>
@@ -177,7 +296,7 @@
 <entry field="true" id="8388833" symbol="SPORT_TRANSITION"/>
 <entry id="8388620" module="true" symbol="Toybox_Time"/>
 <entry id="8389468" symbol="DEVICE_TYPE_GEOCACHE"/>
-<entry field="true" id="17" symbol="breite"/>
+<entry field="true" id="15" symbol="breite"/>
 <entry field="true" id="8388848" symbol="SPORT_MULTISPORT"/>
 <entry field="true" id="8388804" symbol="BLE_NO_DATA"/>
 <entry field="true" id="8388892" symbol="name"/>
@@ -267,6 +386,7 @@
 <entry id="8388885" method="true" symbol="getGeometry"/>
 <entry id="8389082" method="true" symbol="onNextMode"/>
 <entry field="true" id="8389551" symbol="PRESS_TYPE_UP"/>
+<entry field="true" id="17" symbol="device_settings"/>
 <entry id="8389279" method="true" symbol="onStart"/>
 <entry field="true" id="8389419" symbol="DEVICE_STATE_DEAD"/>
 <entry field="true" id="8388969" symbol="TONE_MSG"/>
@@ -387,6 +507,7 @@
 <entry field="true" id="8389172" symbol="TEXT_JUSTIFY_RIGHT"/>
 <entry field="true" id="8388857" symbol="SUB_SPORT_ROAD"/>
 <entry id="8388763" object="true" symbol="String"/>
+<entry field="true" id="21" symbol="pic_way"/>
 <entry id="8389469" method="true" symbol="getDownloadProgress"/>
 <entry field="true" id="8389047" symbol="SLIDE_DOWN"/>
 <entry field="true" id="8388856" symbol="SUB_SPORT_INDOOR_CYCLING"/>
@@ -428,6 +549,7 @@
 <entry field="true" id="8389046" symbol="SLIDE_RIGHT"/>
 <entry field="true" id="8389065" symbol="locY"/>
 <entry field="true" id="8388984" symbol="TONE_ERROR"/>
+<entry field="true" id="19" symbol="sec_color"/>
 <entry field="true" id="8389064" symbol="locX"/>
 <entry field="true" id="8389212" symbol="MSG_ID_BROADCAST_DATA"/>
 <entry field="true" id="8389430" symbol="BIKE_POWER_SENSOR_TYPE_CRANK_TORQUE_FREQUENCY"/>
@@ -553,7 +675,7 @@
 <entry id="8389109" method="true" symbol="onMenuItem"/>
 <entry field="true" id="8389151" symbol="birthYear"/>
 <entry id="8389331" symbol="sunday"/>
-<entry field="true" id="18" symbol="hoehe"/>
+<entry field="true" id="16" symbol="hoehe"/>
 <entry field="true" id="8389173" symbol="TEXT_JUSTIFY_CENTER"/>
 <entry id="8389070" method="true" symbol="setSize"/>
 <entry id="8388712" method="true" symbol="print"/>
@@ -706,6 +828,7 @@
 <entry field="true" id="8388840" symbol="SPORT_TRAINING"/>
 <entry field="true" id="8388981" symbol="TONE_SUCCESS"/>
 <entry id="8389514" method="true" symbol="getCalculatedWheelDistance"/>
+<entry field="true" id="22" symbol="pic_kcal"/>
 <entry id="8388985" method="true" symbol="playTone"/>
 <entry field="true" id="8388736" symbol="currentLocation"/>
 <entry field="true" id="8388916" symbol="startOfDay"/>
@@ -759,6 +882,7 @@
 <entry field="true" id="8388812" symbol="INVALID_HTTP_METHOD_IN_REQUEST"/>
 <entry id="8389182" method="true" symbol="drawRoundedRectangle"/>
 <entry field="true" id="8389297" symbol="QUALITY_GOOD"/>
+<entry field="true" id="20" symbol="pic_steps"/>
 <entry field="true" id="8389472" symbol="rightTorqueEffectiveness"/>
 <entry field="true" id="8389228" symbol="MSG_CODE_EVENT_QUE_OVERFLOW"/>
 <entry field="true" id="8388832" symbol="SPORT_CYCLING"/>
@@ -780,6 +904,7 @@
 <entry id="8389133" method="true" symbol="setJustification"/>
 <entry field="true" id="8388966" symbol="TONE_KEY"/>
 <entry id="8389511" method="true" symbol="getCalculatedCrankCadence"/>
+<entry field="true" id="18" symbol="prim_color"/>
 <entry field="true" id="8389220" symbol="MSG_CODE_EVENT_TRANSFER_TX_COMPLETED"/>
 <entry field="true" id="8389294" symbol="QUALITY_LAST_KNOWN"/>
 <entry id="8389258" method="true" symbol="release"/>
@@ -842,11 +967,12 @@
 <entry field="true" id="8389292" symbol="GEO_MGRS"/>
 <entry field="true" id="8389003" symbol="KEY_UP"/>
 <entry id="8388782" method="true" symbol="size"/>
-<entry field="true" id="16" symbol="radius"/>
+<entry field="true" id="25" symbol="radius"/>
 <entry id="8388661" method="true" symbol="testBreak"/>
 <entry field="true" id="8388915" symbol="isSleepMode"/>
 <entry id="8389576" method="true" symbol="printStackTrace"/>
 <entry id="8389022" object="true" symbol="InputEvent"/>
+<entry field="true" id="23" symbol="fenix_purble"/>
 <entry field="true" id="8389452" symbol="WEIGHT_SCALE_ACTIVITY_LEVEL_6"/>
 <entry field="true" id="8389451" symbol="WEIGHT_SCALE_ACTIVITY_LEVEL_5"/>
 <entry id="8388711" method="true" symbol="println"/>
@@ -877,6 +1003,7 @@
 <entry id="8388770" module="true" object="true" symbol="Strings"/>
 <entry id="8389092" symbol="mSize"/>
 <entry field="true" id="8389067" symbol="height"/>
+<entry id="30" method="true" symbol="drawsec"/>
 <entry id="8389480" method="true" symbol="getDeviceNumber"/>
 <entry field="true" id="8389302" symbol="LOCATION_DISABLE"/>
 <entry field="true" id="8389162" symbol="COLOR_DK_RED"/>
@@ -932,12 +1059,12 @@
 <entry id="8388779" symbol="mMethod"/>
 <entry field="true" id="8389036" symbol="NUMBER_PICKER_TIME_OF_DAY"/>
 <entry field="true" id="8389455" symbol="WEIGHT_SCALE_STATUS_DISABLED"/>
-<entry field="true" id="22" symbol="l"/>
-<entry field="true" id="21" symbol="k"/>
+<entry field="true" id="29" symbol="l"/>
+<entry field="true" id="28" symbol="k"/>
 <entry id="8389337" symbol="saturday"/>
-<entry field="true" id="20" symbol="j"/>
+<entry field="true" id="27" symbol="j"/>
 <entry id="8389513" method="true" symbol="getCalculatedTorque"/>
-<entry field="true" id="19" symbol="i"/>
+<entry field="true" id="26" symbol="i"/>
 <entry id="8389481" symbol="setListener"/>
 <entry field="true" id="8388975" symbol="TONE_RESET"/>
 <entry id="8389466" object="true" symbol="WeightScaleCapabilities"/>
@@ -946,7 +1073,7 @@
 <entry id="8389010" object="true" symbol="KeyEvent"/>
 <entry id="8389553" method="true" symbol="onKeyPressed"/>
 <entry field="true" id="8388864" symbol="SUB_SPORT_INDOOR_ROWING"/>
-<entry id="15" symbol="COLORS"/>
+<entry id="24" symbol="COLORS"/>
 <entry field="true" id="8388845" symbol="SPORT_ROWING"/>
 <entry field="true" id="8389030" symbol="CONFIRM_YES"/>
 <entry id="8389545" symbol="mWidth"/>
@@ -1023,6 +1150,17 @@
 <functionEntry name="onUpdate">
 <param id="dc"/>
 <documentation><![CDATA[<div class="description"> Update the view<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="drawsec">
+<param id="dc"/>
+<param id="rad2"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="drawbatt">
+<param id="dc"/>
+<param id="batx"/>
+<param id="baty"/>
+<documentation/>
 </functionEntry>
 <functionEntry name="onHide">
 <documentation><![CDATA[<div class="description"> Called when this View is removed from the screen. Save the<br/> state of this View here. This includes freeing resources from<br/> memory.<br/></div>]]></documentation>
